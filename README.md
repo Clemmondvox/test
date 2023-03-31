@@ -17,5 +17,6 @@ the baubles file
 https://www.curseforge.com/minecraft/mc-mods/baubles/files
 the bibliocraft file
 https://www.curseforge.com/minecraft/mc-mods/bibliocraft/files
-
+the just enough item file.
+https://www.curseforge.com/minecraft/mc-mods/jei/files/3040523
 
